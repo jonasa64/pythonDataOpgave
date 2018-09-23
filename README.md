@@ -12,11 +12,11 @@ Download Assignment2.py and webget.py to your Python Directory and execute Assig
 
 # Results:
 Assignment2.py iterates through the Bob Ross dataset and tells us that  
-  It contains 181533 line  
-  Has 2487 message sent after 03:00:00 on the Oct. 30th  
-  Has 67568 unique users participating in the chat  
-  That "RUINED" as a single word appears 4245 times  
-  That KappaRoss is the most frequently used word, appearing 68856 times  
+  *It contains 181533 line  
+  *Has 2487 message sent after 03:00:00 on the Oct. 30th  
+  *Has 67568 unique users participating in the chat  
+  *That "RUINED" as a single word appears 4245 times  
+  *That KappaRoss is the most frequently used word, appearing 68856 times  
     
 # Output:
 Downloading file to BobRoss.txt  
