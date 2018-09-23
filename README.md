@@ -9,6 +9,10 @@ Rune  opgave 3
 
 alle opgave  4 
 
+import donlowder 
+import time
+import string
+
 
 
 # pythonDataOpgave
